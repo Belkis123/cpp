@@ -1,10 +1,10 @@
-#include <iostream>
- using namespace std;
+   #include <iostream>
+   using namespace std;
  
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+   /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char** argv) {
+   int main(int argc, char** argv) {
 	
     double subtotal= 0;
     double total= 0;
