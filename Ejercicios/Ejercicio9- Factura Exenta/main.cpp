@@ -22,7 +22,9 @@ int main(int argc, char** argv) {
 
    cout << "Ingrese el Descuento (0,10,15,20) ";
    cin >> descuento;
-
+   
+   cout <<"Factura Exenta? s/n";
+  cin >>estaExenta;
   
       
     // Proceso
@@ -31,9 +33,10 @@ int main(int argc, char** argv) {
     total= subtotal - calculoDescuento + calculoImpuesto;
 
 
-  cout <<"Factura Exenta? s/n";
-  cin >>estaExenta;
 
+    // Salida
+
+    
    if (estaExenta== 's' || estaExenta == 'S')
    {
      calculoImpuesto= 0;
@@ -46,8 +49,6 @@ int main(int argc, char** argv) {
 
    }
 
-
-    // Salida
 
       cout << endl;
       cout << "Total a pagar es:" <<total;
