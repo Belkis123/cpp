@@ -24,20 +24,15 @@ int main(int argc, char** argv) {
    cin >> descuento;
    
    cout <<"Factura Exenta? s/n";
-  cin >>estaExenta;
+   cin >>estaExenta;
   
       
     // Proceso
     calculoDescuento= (subtotal* descuento)/ 100;
-    calculoImpuesto= (subtotal - calculoDescuento) * 0.15;
+    calculoImpuesto= (subtotal - calculoDescuento);
     total= subtotal - calculoDescuento + calculoImpuesto;
 
-
-
-    // Salida
-
-    
-   if (estaExenta== 's' || estaExenta == 'S')
+    if (estaExenta== 's' || estaExenta == 'S')
    {
      calculoImpuesto= 0;
 
@@ -50,6 +45,10 @@ int main(int argc, char** argv) {
    }
 
 
+
+    // Salida
+
+    
       cout << endl;
       cout << "Total a pagar es:" <<total;
 
