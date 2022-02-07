@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(int argc, char const *argv[])
- {
- int nota = 0;
+{
+    int nota = 0;
 
     cout << "Ingrese la nota que obtuvo: ";
     cin >> nota;
@@ -27,7 +27,7 @@ int main(int argc, char const *argv[])
 
     if (nota >= 86 && nota <= 90)
     {
- cout << "Obtuviste una A"; 
+        cout << "Obtuviste una A "; 
     }
 
     if (nota >= 81 && nota <= 85)
@@ -37,12 +37,12 @@ int main(int argc, char const *argv[])
 
     if (nota >= 76 && nota <= 80)
     {
- cout << "Obtuviste una B+"; 
+        cout << "Obtuviste una B+ "; 
     }
 
     if (nota >= 71 && nota <= 75)
     {
- cout << "Obtuviste una B"; 
+        cout << "Obtuviste una B "; 
     }
 
     if (nota >= 66 && nota <= 70)
@@ -52,12 +52,12 @@ int main(int argc, char const *argv[])
 
     if (nota >= 61 && nota <= 65)
     {
- cout << "Obtuviste una C+"; 
+        cout << "Obtuviste una C+ "; 
     }
 
     if (nota >= 56 && nota <= 60)
     {
- cout << "Obtuviste una C"; 
+        cout << "Obtuviste una C "; 
     }
 
     if (nota >= 51 && nota <= 55)
@@ -67,12 +67,12 @@ int main(int argc, char const *argv[])
 
     if (nota >= 46 && nota <= 50)
     {
- cout << "Obtuviste una D+"; 
+        cout << "Obtuviste una D+ "; 
     }
 
     if (nota >= 41 && nota <= 45)
     {
- cout << "Obtuviste una D"; 
+        cout << "Obtuviste una D "; 
     }
 
     if (nota >= 36 && nota <= 40)
@@ -82,12 +82,12 @@ int main(int argc, char const *argv[])
 
     if (nota >= 31 && nota <= 35)
     {
- cout << "Obtuviste una E+"; 
+        cout << "Obtuviste una E+ "; 
     }
 
     if (nota >= 26 && nota <= 30)
     {
- cout << "Obtuviste una E"; 
+        cout << "Obtuviste una E "; 
     }
 
     if (nota >= 21 && nota <= 25)
@@ -97,12 +97,12 @@ int main(int argc, char const *argv[])
 
     if (nota >= 16 && nota <= 20)
     {
- cout << "Obtuviste una F+"; 
+        cout << "Obtuviste una F+ "; 
     }
 
     if (nota >= 11 && nota <= 15)
     {
- cout << "Obtuviste una F"; 
+        cout << "Obtuviste una F "; 
     }
 
     if (nota >= 6 && nota <= 10)
@@ -115,6 +115,5 @@ int main(int argc, char const *argv[])
         cout << "Obtuviste una F-- "; 
     }
 
-
     return 0;
- }
+}
