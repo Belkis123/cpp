@@ -4,7 +4,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-     int nota - 0;
+     int nota = 0;
 
      cout << "Ingrese la nota que obtuvo: " ;
      cin >> nota;
@@ -12,9 +12,6 @@ int main(int argc, char const *argv[])
      if (nota > 100 || nota < 0){
          cout <<"Ingrese una nota entre 0 - 100";
          return 0;
-     }
-     {
-         /* code */
      }
      
 
