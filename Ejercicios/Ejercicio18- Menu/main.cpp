@@ -43,6 +43,5 @@ int main(int argc, char** argv) {
 	cout <<"Saliste  del Sistema";
 	
 	
-	
 	return 0;
 }
