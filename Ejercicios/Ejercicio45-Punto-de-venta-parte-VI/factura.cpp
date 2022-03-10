@@ -4,7 +4,7 @@ using namespace std;
 
 double Subtotal, Total;
 string listaProductos;
-int Impuesto;
+double Impuesto;
 
 
 
