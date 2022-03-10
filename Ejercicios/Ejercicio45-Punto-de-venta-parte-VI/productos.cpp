@@ -67,10 +67,10 @@ void productos (int opcion)
             switch (opcionProducto)
             {
             case 1:
-               agregarProducto ("1 Granita de Cafe - L 30.00",1, 30);
+               agregarProducto ("1 Granita de Cafe - L 35.00",1, 35);
                break;
             case 2:
-               agregarProducto ("1 Mochaccino - L 40.00",1, 40);
+               agregarProducto ("1 Mochaccino - L 45.00",1, 45);
                 break;
 
             case 3:
