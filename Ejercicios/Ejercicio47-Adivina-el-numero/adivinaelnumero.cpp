@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
 
     do
     {
-        cout<< "Aduivina el numero (1 a 10): ";
+        cout<< "Adivina el numero (1 a 10): ";
         cin >> miNumero;
 
         if (numeroSecreto > miNumero)
