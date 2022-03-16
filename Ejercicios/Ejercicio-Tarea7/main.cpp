@@ -2,6 +2,8 @@
 #include "menu.h"
 #include "productos.h"
 #include "factura.h"
+#include "AgregarProducto.h"
+
 
 using namespace std;
 
