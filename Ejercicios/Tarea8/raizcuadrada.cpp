@@ -4,7 +4,7 @@
 using namespace std;
  
 int main() {
-  float numero,raiz;
+  double numero,raiz;
  
  
   cout << "Calcular la Raiz Cuadrada" <<endl;
