@@ -8,7 +8,6 @@ int main(int argc, char const *argv[])
 
 
     //asignacion de valores a un arreglo unidimensional
-    
     numeros[0] = 10;
     numeros[1] = 5;
     numeros[2] = 7;
@@ -17,19 +16,11 @@ int main(int argc, char const *argv[])
 
 
     //lectura de los  valores de un arreglo unidimensional
-
     cout << numeros [0] <<endl;
     cout << numeros [1] <<endl;
     cout << numeros [2] <<endl;
     cout << numeros [3] <<endl;
     cout << numeros [4] <<endl;
-
-
-
-
-
-
-
 
 
     return 0;
