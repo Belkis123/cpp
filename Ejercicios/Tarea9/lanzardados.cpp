@@ -13,7 +13,7 @@ int main()
     while (true)
     {
     	cout<<"                          Juego de Dados                      "<<endl;
-        cout<<"Se gana con los numeros 2, 4 , y se pierden con los numeros 6 y 8 "<<endl;
+        cout<<"Ganas con los numeros 2, 4 , pierdes con los numeros 6 y 8 "<<endl;
 		
 		
 		
@@ -33,13 +33,13 @@ int main()
         if (dado1+dado2 == 2 or dado1+dado2 == 4 )
         {
             cout<<endl;
-			cout<<"El jugador gana, la casa pierde "<<endl;
+			cout<<"Ganaste "<<endl;
             break;
         }
         if (dado1+dado2 == 6 or dado1+dado2 == 8)
         {
             cout<<endl;
-			cout<<"La casa gana, el jugador pierde "<<endl;
+			cout<<"Perdiste "<<endl;
             break;
         }
         
@@ -50,4 +50,7 @@ int main()
         system ("pause");
         system ("cls");
     }   
+
+     return 0;
+
 }
