@@ -12,7 +12,7 @@ using namespace std;
 //**BARRA DE LOADING
 void cargando()
 {
-	int segundos=2;
+	int segundos=1;
     for(int i=0; i<=0; i++)
    	cout << "Cargando...";
    
