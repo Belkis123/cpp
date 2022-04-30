@@ -1,6 +1,6 @@
 [Project]
-FileName=Proyecto.dev
-Name=Proyecto
+FileName=JuegodeTrivias.dev
+Name=Juego de Trivias
 Type=1
 Ver=2
 ObjFiles=
@@ -50,18 +50,8 @@ ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
-[Unit1]
-FileName=seguridad.cpp
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
 [Unit2]
-FileName=seguridad.h
+FileName=animacion.h
 CompileCpp=1
 Folder=
 Compile=1
@@ -70,7 +60,7 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
-[Unit3]
+[Unit1]
 FileName=main.cpp
 CompileCpp=1
 Folder=
@@ -80,8 +70,18 @@ Priority=1000
 OverrideBuildCmd=0
 BuildCmd=
 
+[Unit3]
+FileName=cuestionario.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
 [Unit4]
-FileName=menu.cpp
+FileName=lectordetxt.h
 CompileCpp=1
 Folder=
 Compile=1

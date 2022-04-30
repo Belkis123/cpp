@@ -1,0 +1,30 @@
+1) ?Cual es la ciudad mas pequena del mundo?
+a) Londres     b) Toronto      c)Vaticano     d) Sidney
+2) ?Cual es el oceano mas grande?
+a) Pacifico    b) Indico   c) Atlantico   d) Artico
+3) ?Cual es el planeta mas grande del sistema solar?
+a) Saturno   b) Jupiter     c) Tierra       d) Ninguna de las anteriores
+4) ?Cual es el pais mas poblado del mundo?
+a) Corea   b) Francia   c) China    d) Rusia
+5) ?Cual es el rio mas largo del mundo?
+a) Rio Mississippi  b) Rio Bravo c) Rio Motagua   d) El amazonas
+6) ?Cuantos Huesos tiene el cuerpo humano?
+a) 206   b) 360  c) 215   d) 207
+7) ?Cual es el idioma oficial de Israel?
+a) Japones   b) Griego   c) Chino    d) Hebreo
+8) ?Cuantas estrellas tiene la bandera de Estados Unidos?
+a) 45  b) 50   c) 60 d) 100
+9) ?Cual es la unica especie de mamiferos que puede volar?
+a) Murcielagos    b) Ballena      c) Perro   d) Mariposas
+10) ?Quien entrego a Jesus?
+a) Pedro     b) Juan     c)Pablo      d) Judas
+11) ?En que ciudad se encuentra la casa Blanca de Estados Unidos
+a) New York    b) Los Angeles    c) Washintong    d) Las Vegas
+12) ?Como se llaman los triangulos que tienen sus tres lados iguales?
+a) isoseles      b) equilatero      c) Escaleno       d) Acutangulo
+13) ?Cuantas notas musicales exiten?
+a) 7    b) 8     c) 10      d) 12
+14) ?Cual es el metal mas caro del mundo
+a) oro     b) plata     c) bronce        d) rodio
+15) ?Donde se encuentra el Cristo Redentor?
+a) Estados Unidos      b) Brasil     c) Canada      d) Paraguay
