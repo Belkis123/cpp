@@ -131,10 +131,10 @@ string productos [5][3] = {
     while (true)
     {
         system("cls");
-
-        cout << "                                   Sistema de Inventario                          " ;
+          cout << "************************************************************************************";
+        cout << "                                                                       SISTEMA DE INVENTARIO                              " ;
         cout << endl;
-        cout << "********************";
+        cout << "************************************************************************************";
         
         cout << endl;
         cout << endl;
