@@ -132,7 +132,7 @@ string productos [5][3] = {
     {
         system("cls");
 
-        cout << "Sistema de iventario" ;
+        cout << "                                   Sistema de Inventario                          " ;
         cout << endl;
         cout << "********************";
         
