@@ -50,7 +50,6 @@ void cargarLibros() {
 	libros[38][0] = "Python"; libros[38][1] = "Python para todos"; libros[38][2] =  "  Juan Perez";
 }
 
-
 int main(int argc, char const *argv[])
 {
     cargarLibros();
