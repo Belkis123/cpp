@@ -8,8 +8,8 @@ int main(int argc, char const *argv[])
 {
     system("cls");
 
-    // starShip();
-    // snake();
+     startShip();
+     snake();
 
     return 0;
 }
