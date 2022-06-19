@@ -1,17 +1,11 @@
 #include <iostream>
 #include "startShip.h"
 #include "snake.h"
-#include <string>
 
 using namespace std;
 
-string juegos [2][2] = {
-    {"1", "startShip()"},
-    {"2", "snake()"},
-};
+int main(int argc, char const *argv[])
 
-
- int main(int argc, char const *argv[])
 {
     int opcion = 0;
 
@@ -32,6 +26,7 @@ string juegos [2][2] = {
         cout << endl;
         cout << "Ingrese una opcion del menu de Juegos: ";
         cin >> opcion;
+    
         
         switch (opcion)
         {
