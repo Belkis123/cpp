@@ -5,10 +5,13 @@
 
 using namespace std;
 
-    string juegos [2][2] = {
-    {"1", "startShip()"},
-    {"2", "snake()"},
-};
+int main(int argc, char const *argv[])
+{
+    system("cls");
+
+    startShip();
+    snake();
+}
 
  int main(int argc, char const *argv[])
 {
