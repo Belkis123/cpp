@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
 {
     int opcion = 0;
 
-    while (true) {
+     while (true) {
             
         system ("cls");
 
