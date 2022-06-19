@@ -5,14 +5,10 @@
 
 using namespace std;
 
-int main(int argc, char const *argv[])
-{
-    system("cls");
-
-     startShip();
-     snake();
-     
- };
+    string juegos [2][2] = {
+    {"1", "startShip()"},
+    {"2", "snake()"},
+};
 
  int main(int argc, char const *argv[])
 {
@@ -29,7 +25,7 @@ int main(int argc, char const *argv[])
         cout << endl;
         cout << " ELIGE UN JUEGO! " << endl;
         cout << endl;
-        cout << "1 - starTShip" << endl;
+        cout << "1 - startShip" << endl;
         cout << "2 - snake" << endl;
         cout << "0 - Salir" << endl;
         cout << endl;
