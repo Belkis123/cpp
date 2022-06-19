@@ -45,6 +45,11 @@ int main(int argc, char const *argv[])
 
         system ("pause");
         cout << endl;
+        if (opcion==0)
+        {
+            break;
+        }
+        
         
     }
 
