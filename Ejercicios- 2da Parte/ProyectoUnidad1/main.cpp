@@ -32,7 +32,7 @@ int main(int argc, char const *argv[])
         switch (opcion)
         {
         case 1:
-            startShip();
+            starShip();
             break;
         
         case 2:

@@ -1,1 +1,1 @@
-int startShip();
+int starShip();
