@@ -27,6 +27,7 @@ int main(int argc, char const *argv[])
         cout << "Ingrese una opcion del menu de Juegos: ";
         cin >> opcion;
     
+    
         
         switch (opcion)
         {
@@ -44,10 +45,7 @@ int main(int argc, char const *argv[])
 
         system ("pause");
         cout << endl;
-        if (opcion == 0)
-        {
-            break;
-        }
+        
     }
 
     return 0;
