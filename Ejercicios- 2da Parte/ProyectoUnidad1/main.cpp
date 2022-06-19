@@ -11,5 +11,6 @@ int main(int argc, char const *argv[])
      startShip();
      snake();
 
-    return 0;
+
+	 return 0;
 }
