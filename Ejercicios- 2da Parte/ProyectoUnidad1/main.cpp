@@ -14,9 +14,9 @@ int main(int argc, char const *argv[])
         system ("cls");
 
         cout << endl;
-        cout << "****************" << endl;
+        cout << "*****************" << endl;
         cout << "* MENU DE JUEGOS *" << endl;
-        cout << "****************" << endl;
+        cout << "*****************" << endl;
         cout << endl;
         cout << " ELIGE UN JUEGO! " << endl;
         cout << endl;
