@@ -39,19 +39,20 @@ int main(int argc, char const *argv[])
             snake();
             break;
          
-        default:
-        break;
+         default:
+            break;
         }
 
-        system ("pause");
+        
+        system("pause");
         cout << endl;
-        if (opcion==0)
+
+        if (opcion == 0)
         {
             break;
         }
-        
-        
     }
+    
 
     return 0;
 }
